@@ -1,0 +1,27 @@
+[
+    {
+      "title": "W Wielkiej Brytanii otwarto pierwszy las dla psów",
+      "image": "images/news1.jpg",
+      "body": "W hrabstwie Devon powstał pierwszy w Wielkiej Brytanii las specjalnie przeznaczony dla psów i ich właścicieli. Miejsce oferuje bezpieczne spacery, strefy do biegania i edukacyjne znaki o przyrodzie."
+    },
+    {
+      "title": "Słońce przestało być najgorętszym miejscem w Układzie Słonecznym",
+      "image": "images/news2.jpg",
+      "body": "Badacze z MIT poinformowali, że eksperymenty z fuzją jądrową osiągnęły temperaturę 100 milionów stopni Celsjusza – ponad 6 razy więcej niż w jądrze Słońca."
+    },
+    {
+      "title": "Włochy uratowały 400 ryb z wyschniętego stawu",
+      "image": "images/news3.jpg",
+      "body": "W wyniku suszy w Toskanii staw całkowicie wyschnął. Ratownicy przetransportowali wszystkie ryby do pobliskiego jeziora. Akcja uratowała ponad 400 osobników."
+    },
+    {
+      "title": "Nowa aplikacja pomaga niewidomym odczytywać wyrażenia twarzy",
+      "image": "images/news4.jpg",
+      "body": "Startup z San Francisco stworzył aplikację wykorzystującą AI do przekładania wyrażeń twarzy na dźwiękowe sygnały. Użytkownicy mogą teraz 'słyszeć' uśmiech lub smutek."
+    },
+    {
+      "title": "W parkach w Tokio pojawiły się ławki z ładowaniem bezprzewodowym",
+      "image": "images/news5.jpg",
+      "body": "Miasto Tokio modernizuje przestrzeń publiczną. Nowe ławki wyposażone są w bezprzewodowe ładowanie i Wi-Fi. Projekt ma ułatwić życie turystom i mieszkańcom."
+    }
+  ]
