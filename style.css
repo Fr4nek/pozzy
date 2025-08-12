@@ -5,10 +5,11 @@
     box-sizing: border-box;
   }
   
-  body {
+body {
+    height: 100vh;
+    overflow: hidden;
     font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
     background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-    min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
