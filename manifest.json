@@ -2,7 +2,7 @@
     "name": "Pozzy",
     "short_name": "Pozzy",
     "description": "Pozytywne wiadomości z całego świata",
-    "start_url": "/pwa-positive-news/",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#6c5ce7",
     "theme_color": "#6c5ce7",
