@@ -14,11 +14,11 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 15px;
+  padding: 15px 15px 0 15px;
   color: #333;
   overflow-x: hidden;
   padding-top: max(15px, env(safe-area-inset-top, 15px));
-  padding-bottom: max(15px, env(safe-area-inset-bottom, 15px));
+  box-sizing: border-box;
 }
 
 /* Header */
@@ -164,6 +164,7 @@ footer {
   margin-top: 12px;
   gap: 10px;
   flex-shrink: 0;
+  padding-bottom: max(15px, env(safe-area-inset-bottom, 15px));
 }
 
 footer button,
@@ -261,9 +262,8 @@ footer a:hover {
 /* Responsive */
 @media (max-width: 480px) {
   body {
-    padding: 10px;
+    padding: 10px 10px 0 10px;
     padding-top: max(10px, env(safe-area-inset-top, 10px));
-    padding-bottom: max(10px, env(safe-area-inset-bottom, 10px));
   }
   
   header {
@@ -299,6 +299,7 @@ footer a:hover {
   
   footer {
     margin-top: 8px;
+    padding-bottom: max(10px, env(safe-area-inset-bottom, 10px));
   }
   
   footer button,
@@ -344,7 +345,7 @@ footer a:hover {
 /* iOS fullscreen (when added to home screen) */
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   @supports (-webkit-touch-callout: none) {
-    body {
+    footer {
       padding-bottom: max(20px, env(safe-area-inset-bottom, 15px));
     }
   }
@@ -352,7 +353,7 @@ footer a:hover {
 
 /* Dodatkowe wsparcie dla iPhone'ów w trybie standalone PWA */
 @media (display-mode: standalone) {
-  body {
+  footer {
     padding-bottom: max(20px, env(safe-area-inset-bottom, 15px));
   }
 }
