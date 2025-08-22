@@ -29,7 +29,7 @@ header {
 }
 
 header .logo {
-  height: 2rem; /* Podobna wysokość co poprzedni tekst h1 */
+  height: 5rem; /* Podobna wysokość co poprzedni tekst h1 */
   width: auto;
   margin-bottom: 4px;
   filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.1));
@@ -269,7 +269,7 @@ footer a:hover {
   }
   
   header .logo {
-    height: 1.7rem; /* Zmniejszona wysokość dla mobile */
+    height: 3rem; /* Zmniejszona wysokość dla mobile */
     margin-bottom: 2px;
   }
   
