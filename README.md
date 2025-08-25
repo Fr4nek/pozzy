@@ -5,19 +5,15 @@
   <h1>Daily good news</h1>
   
   <p>
-    Strona PWA dostarczająca coddzienne 5 pozytywnych wiadomości ze świata po polsku.
+    PWA website providing daily 5 positive news from around the world in Polish.
   </p>
   
 
    
 <h4>
-    <a href="">View Demo</a>
-  <span> · </span>
-    <a href="">Documentation</a>
-  <span> · </span>
+    <a href="https://pozzy.vercel.app">Visite Website</a>
+    <span> · </span>
     <a href="">Report Bug</a>
-  <span> · </span>
-    <a href="">Request Feature</a>
   </h4>
 </div>
 
@@ -30,7 +26,6 @@
 </div>
 
 
-<!-- TechStack -->
 ### Tech Stack
 
 
