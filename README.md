@@ -1,51 +1,46 @@
-# Dokumentacja Projektu
 
-## Spis Treści
-1. [Wprowadzenie](#wprowadzenie)
-2. [Cel Projektu](#cel-projektu)
-3. [Wymagania](#wymagania)
-4. [Instalacja](#instalacja)
-5. [Użycie](#użycie)
-6. [Struktura Projektu](#struktura-projektu)
-7. [Autorzy](#autorzy)
-8. [Licencja](#licencja)
+<div align="center">
 
----
+  <img src="assets/logo/pozzy_logo_nobg.png" alt="logo" width="200" height="auto" />
+  <h1>Daily good news</h1>
+  
+  <p>
+    Strona PWA dostarczająca coddzienne 5 pozytywnych wiadomości ze świata po polsku.
+  </p>
+  
 
-## Wprowadzenie
-Krótki opis projektu, jego przeznaczenie i kontekst.
+   
+<h4>
+    <a href="">View Demo</a>
+  <span> · </span>
+    <a href="">Documentation</a>
+  <span> · </span>
+    <a href="">Report Bug</a>
+  <span> · </span>
+    <a href="">Request Feature</a>
+  </h4>
+</div>
 
-## Cel Projektu
-Opis głównych celów i funkcjonalności projektu.
+<br />
 
-## Wymagania
-- Lista wymagań systemowych i zależności.
+### Screenshots
 
-## Instalacja
-Instrukcje dotyczące instalacji projektu:
-```bash
-# Przykład instalacji
-git clone https://github.com/user/repo.git
-cd repo
-npm install
-```
+<div align="center"> 
+  <img src="assets/screenshot_web_big.png" alt="screenshot" />
+</div>
 
-## Użycie
-Przykłady użycia projektu:
-```bash
-# Przykład uruchomienia
-npm start
-```
 
-## Struktura Projektu
-Opis głównych folderów i plików w projekcie:
-```
-/Website - Sorce code of website
-/Server - Sorce code of news updating system
-```
+<!-- TechStack -->
+### Tech Stack
 
-## Autorzy
-- [Franek Makowski](https://fr4nek.github.io)
 
-## Licencja
-[Creative Commons Uznanie autorstwa – Użycie niekomercyjne 4.0 Międzynarodowe (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.pl).
+  <ul>
+    <li><a href="">HTML</a></li>
+    <li><a href="">CSS</a></li>
+    <li><a href="">Java Script</a></li>
+    <li><a href="">Python</a></li>
+</ul>
+
+
+## License
+This project is distributed under rules of [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
